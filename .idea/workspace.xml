@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1391f20b-df6c-467b-a6c9-78b2c33cd022" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicios-HTML/tablas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-HTML/ej_animales.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-HTML/ej_animales.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-HTML/ej_formulario.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-HTML/ej_formulario.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-HTML/ej_formulario2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-HTML/ej_formulario2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-HTML/ej_listas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-HTML/ej_listas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios-HTML/ej_noticia.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-HTML/ej_noticia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios-CSS/ej_columnas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-CSS/ej_columnas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios-CSS/ej_cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-CSS/ej_cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios-CSS/ej_leyes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios-CSS/ej_leyes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,9 @@
       <option name="presentableId" value="Default" />
       <updated>1649247473127</updated>
       <workItem from="1649247479280" duration="2937000" />
-      <workItem from="1649848247907" duration="3893000" />
+      <workItem from="1649848247907" duration="4159000" />
+      <workItem from="1650029613078" duration="331000" />
+      <workItem from="1650454253176" duration="3344000" />
     </task>
     <servers />
   </component>
