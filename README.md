@@ -1,8 +1,20 @@
-# ejercicios2022
-Ejercicios de HTML, CSS y JS para Laboratorio de Computación II
+# Ejerecicio README. md
+## Laboratorio de Computacion II
+####  Gomez Lucila
+* **Sistemas Operativos**
+* Herramientas de  _desarrollo_ 
+    * Git
+    * [**Git Avanzado** http://ucc-labcompu2.github.io/filminas/U2_git_avanzado#/9]
+    
+## Informacion de contacto
 
-### TODO LIST
-* Ejercicios de margin-padding
-* Agregar diapositivas de Code-Review
-* Agregar texto en canvas
-* revisar etiqueta main https://developer.mozilla.org/es/docs/Web/HTML/Elemento/main
+| Nombre | mail |
+| ------ | ------ |
+| Lucila Gomez | 2111887@ucc.edu |
+
+agregar emoji:   https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+:smile:
+:octocat:
+:+1:
+:sparkles:
